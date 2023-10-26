@@ -13,7 +13,7 @@ import json
 import string
 import numpy as np
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "xxx"
 
 openai.api_key = os.getenv('OPENAI_API_KEY')
 
